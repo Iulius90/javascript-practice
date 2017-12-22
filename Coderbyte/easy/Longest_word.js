@@ -5,7 +5,7 @@ const x = "Some|_sample\n^3\tsentence@#@#%@#%s";
 // option 1 - using "for" loop
 function longestWord1(sen) {
   sen = sen.replace(/[^A-Za-z]/g, ' ')   //- replace all non letter characters with spaces
-           .split(' ');                  //- split the string by spaces into an array
+           .split(' ');                  //- split the string into words
     
   //- loop through that array and find the longest word  
   let lw = '';

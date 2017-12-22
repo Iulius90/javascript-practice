@@ -4,3 +4,11 @@
 // additive persistence which is the number of times you must add the digits in num    *
 // until you reach a single digit. For example: if num is 2718 then your program       *
 // should return 2 because 2 + 7 + 1 + 8 = 18 and 1 + 8 = 9 and you stop at 9.         *  
+
+var count = 0
+function AdditivePersistence(num) { 
+    if (String(num).length == 1) return count;
+    return AdditivePersistence (eval(String(num).split("").join("+")),count++);
+}
+
+console.log(AdditivePersistence(9999))
