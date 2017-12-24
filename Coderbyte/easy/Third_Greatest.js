@@ -7,4 +7,12 @@
 // the array. If strArr was ["hello", "world", "after", "all"] the output should be    *
 // after because the first three words are all 5 letters long, so return the last one. *
 // The array will have at least three strings and each string will only contain        *
-// letters.                                                                            *
+// letters.       
+
+const x = ["hello", "world", "before", "all"];
+const y = ["hello", "world", "after", "all"];
+
+const ThirdGreatest = arr =>  arr.sort((a,b) => b.length - a.length)[2];
+
+console.log(ThirdGreatest(x));
+console.log(ThirdGreatest(y));
