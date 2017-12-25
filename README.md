@@ -4,5 +4,11 @@ javascript quizes/challenges, gathered from:
 * [coderbyte](https://coderbyte.com/profile/Iulius90)
 * [hackerrank](https://www.hackerrank.com/savin_iulian90)
 
+#### Codewars
+> *  8 Kyu - 19 challenges
+  **_The difficulty is ranked from easy to hard with 8 to 1 kyu_**
+> *  7 Kyu - to do 
+
 #### Coderbyte
 > *  easy - 29 challenges
+> *  medium - to do
