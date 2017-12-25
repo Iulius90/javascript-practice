@@ -5,9 +5,10 @@ javascript quizes/challenges, gathered from:
 * [hackerrank](https://www.hackerrank.com/savin_iulian90)
 
 #### Codewars
+**_The difficulty is ranked 8kyu to 1 kyu, 1 beeing the hardest_**
 > *  8 Kyu - 19 challenges
-  **_The difficulty is ranked from easy to hard with 8 to 1 kyu_**
-> *  7 Kyu - to do 
+  
+> *  7 Kyu - 21 challenges
 
 #### Coderbyte
 > *  easy - 29 challenges
