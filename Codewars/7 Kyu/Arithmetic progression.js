@@ -5,8 +5,8 @@
 
 
 // In your class, you have started lessons about arithmetic progression.
-// Since you are also a programmer, you have decided to write a function 
-// that will return the first 'n' elements of the sequence with the given common 
+// Since you are also a programmer, you have decided to write a function
+// that will return the first 'n' elements of the sequence with the given common
 // difference 'r' and first element 'a'. Result should be separated by comma and space.
 
 // Example:
@@ -19,4 +19,4 @@ const arithmeticSequenceElements = (a,r,n) => {
     result.push(a + i*r);
   }
   return result.join(', ');
-}
+};
