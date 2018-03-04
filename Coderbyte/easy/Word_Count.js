@@ -18,5 +18,4 @@ const WordCount = (str) => ( x.replace(/\s\s+/g, ' ').split(" ").length);
 //.replace(/\s\s+/g, ' ')
 // - this replaces tabs/ new lines / multiple spaces with a single space character
 
-
 console.log(WordCount(x));
