@@ -14,8 +14,8 @@ javascript quizes/challenges, gathered from:
 
 #### Codewars
 **_The difficulty is ranked 8kyu to 1 kyu, 1 beeing the hardest_**
-> *  8 Kyu - 19 challenges  
-> *  7 Kyu - 21 challenges
+> *  8 Kyu - 28 challenges  
+> *  7 Kyu - 24 challenges
 
 #### Coderbyte
 > *  easy - 29 challenges
